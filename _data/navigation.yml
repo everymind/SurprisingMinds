@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "People"
+    url: /people/
+  - title: "Resources"
+    url: /resources/
+
+# SurprisingMinds
+SM: 
+  - title: "Surprising Minds"
+    url: /SurprisingMinds/
+    children: 
+      - title: "Introduction"
+        url: /SurprisingMinds/Intro
+      - title: "Eye tracking in Neuroscience"
+        url: /SurprisingMinds/Eye-tracking
+      - title: "Behaviour 'in the wild'"
+        url: /SurprisingMinds/Behaviour-in-the-wild
