@@ -1,8 +1,9 @@
 ---
-layout: splash
-author_profile: false
+layout: single
+author_profile: true
+author: Danbee
 header:
-  overlay_color: "#382957"
+  image: /assets/images/SurprisingMinds_header_small.png
 excerpt: "Getting more brains involved in the study of brains. "
 feature_row:
   - image_path: assets/images/SurprisingMinds_thumbnail.png
