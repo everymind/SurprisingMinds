@@ -247,15 +247,17 @@ defaults:
       comments: true
       share: true
       related: true
-  # _projects
+  # _background
   - scope:
       path: ""
-      type: projects
+      type: background
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       comments: true
       share: true
+      sidebar:
+        nav: "docs"
         
 # Collections
 collections: 
