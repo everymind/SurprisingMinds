@@ -260,17 +260,4 @@ defaults:
         nav: "docs"
         
 # Collections
-collections: 
-  projects: 
-    output: true
-    permalink: /:categories/:title/
-  surprising-minds: 
-    output: true
-    permalink: /:categories/:title/
-  people: 
-    output: true
-    permalink: /:categories/:title/
-  resources: 
-    output: true
-    permalink: /:collection/:path/
   
