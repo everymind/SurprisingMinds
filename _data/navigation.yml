@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: www.everymind.online/about/
   - title: "Projects"
-    url: /projects/
+    url: www.everymind.online/projects/
   - title: "People"
-    url: /people/
+    url: www.everymind.online/people/
   - title: "Resources"
-    url: /resources/
+    url: www.everymind.online/resources/
 
 # SurprisingMinds
 SM: 
