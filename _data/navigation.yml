@@ -23,6 +23,15 @@ docs:
         url: /Interactive-station/
       - title: "The Software"
         url: /Software/
+      - title: "Our Scientific Goals"
+        url: /Science-goals/
+        
+  - title: "Phase 1: Summer Prototype"
+    children: 
+      - title: "Daily Reports"
+        url: /categories/#daily-report
+      - title: "Summary of Prototype"
+        url: /documentation/summary-of-summer-prototype/
         
         
 
