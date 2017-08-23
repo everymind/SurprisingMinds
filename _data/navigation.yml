@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Introduction"
+    url: /
   - title: "Project Blog"
     url: /blog/
   - title: "Dataset"
@@ -10,7 +12,6 @@ main:
 # project documentation
 docs: 
   - title: "Introduction"
-    url: /
     children: 
       - title: "Eye tracking in Neuroscience"
         url: /Eye-tracking/
