@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: August 03, 2017"
 excerpt: "The day consisted of a constant stream of participants, two foreign schools attended the centre as well as large groups of families. "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 
