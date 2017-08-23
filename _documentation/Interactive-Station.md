@@ -1,6 +1,5 @@
 ---
 title: "The Interactive Station"
-permalink: /Interactive-station/
 excerpt: 
 categories:
   - documentation
