@@ -1,9 +1,17 @@
 ---
-layout: single
-permalink: /people/
-author_profile: true
+title: "The Interactive Station"
+permalink: /Interactive-station/
+excerpt: 
+categories:
+  - documentation
+tags:
+  - exhibit
+  - science in the wild
+  - Sea Life Brighton
+  - interactive
 ---
-{% include toc icon="group" title="Every Mind" %}
+
+{% include toc title="The Interactive Station" %}
 
 ## The EveryMind Team
 
