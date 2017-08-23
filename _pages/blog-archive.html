@@ -10,8 +10,8 @@ This blog serves as a shared, online open lab notebook for the Surprising Minds 
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for category in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
   <h1 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h1>
+  {% assign posts = group_items[forloop.index0] %}
   <div class="grid_wrapper">
     {% for post in posts %}
       {% include archive-single.html type="grid" %}
