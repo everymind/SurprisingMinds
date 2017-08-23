@@ -1,13 +1,12 @@
 ---
 title: "Daily Report: August 19, 2017"
 excerpt: "The exhibit got a steady stream of visitors today; many were the usual foreign language study students, but I also got a significant number of non-white european phenotypes trying out the exhibit."
+author: Danbee Kim
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
   - prototype
 ---
 
