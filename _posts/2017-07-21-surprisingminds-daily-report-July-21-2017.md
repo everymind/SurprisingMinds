@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: July 21, 2017"
 excerpt: " "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 
