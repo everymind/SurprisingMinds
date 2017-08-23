@@ -38,7 +38,7 @@ So, we want to bring these studies of behaviour out of the laboratory and "into 
 
 ## Want to learn more?
 
-Check out our [project blog](/blog/) for documentation of the project, and recent news and updates!
+Check out our [project blog](/SurprisingMinds/blog/) for documentation of the project, and recent news and updates!
 
 Visit [Surprising Minds' github repository](https://github.com/everymind/SurprisingMinds) to see the dataset, our analysis code, and visualizations of the project's results! 
 
