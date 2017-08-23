@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: August 17, 2017"
 excerpt: "A diversity of eyes"
+author: Danbee Kim
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 
