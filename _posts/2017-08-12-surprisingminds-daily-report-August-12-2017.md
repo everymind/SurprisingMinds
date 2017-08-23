@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: August 12, 2017"
 excerpt: "was thinking about how to automate the exhibit all day. "
+author: Danbee Kim
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 
