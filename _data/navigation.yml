@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: www.everymind.online/about/
+    url: /about/
   - title: "Projects"
     url: www.everymind.online/projects/
   - title: "People"
@@ -10,7 +10,7 @@ main:
     url: www.everymind.online/resources/
 
 # SurprisingMinds
-SM: 
+SurprisingMinds: 
   - title: "Surprising Minds"
     url: /SurprisingMinds/
     children: 
