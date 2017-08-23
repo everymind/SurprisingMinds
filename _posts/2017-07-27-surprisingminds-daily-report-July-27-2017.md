@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: July 27, 2017"
 excerpt: "The day had quite a slow start but by the afternoon it was very busy. "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 
