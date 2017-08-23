@@ -247,10 +247,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _background
+  # doc
   - scope:
       path: ""
-      type: background
+      type: doc
     values:
       layout: single
       author_profile: false
