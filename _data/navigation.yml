@@ -2,21 +2,27 @@
 main:
   - title: "Project Blog"
     url: /blog/
-  - title: "Projects"
-    url: www.everymind.online/projects/
-  - title: "People"
-    url: www.everymind.online/people/
-  - title: "Resources"
-    url: www.everymind.online/resources/
+  - title: "Dataset"
+    url: https://www.dropbox.com/sh/cip8b7vingvbmra/AACDyEf4AYVxzj-9erjtLwTXa?dl=0
+  - title: "Community"
+    url: /community/
 
-# SurprisingMinds
-SurprisingMinds: 
-  - title: "Surprising Minds"
-    url: /SurprisingMinds/
+# project documentation
+docs: 
+  - title: "Introduction"
+    url: /
     children: 
-      - title: "Introduction"
-        url: /SurprisingMinds/Intro
       - title: "Eye tracking in Neuroscience"
-        url: /SurprisingMinds/Eye-tracking
+        url: /Eye-tracking/
       - title: "Behaviour 'in the wild'"
-        url: /SurprisingMinds/Behaviour-in-the-wild
+        url: /Behaviour-in-the-wild/
+        
+  - title: "Building the Exhibit"
+    children: 
+      - title: "The Interactive Station"
+        url: /Interactive-station/
+      - title: "The Software"
+        url: /Software/
+        
+        
+
