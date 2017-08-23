@@ -3,11 +3,11 @@ title: "Nuffield Summer Students"
 excerpt: "We teamed up with A-levels students interested in neuroscience research 'in the wild' to run the exhibit for 3 weeks and prototype the interactive booth as a data-collection tool. "
 author: Danbee Kim
 categories:
-  - Surprising Minds
+  - documentation
 tags:
   - open lab notebook
   - Sea Life Brighton
-  - documentation
+  - Nuffield Research Placements
 ---
 
 Once the exhibit was installed at Sea Life Brighton on Tuesday, 4 July 2017, we spent the rest of the week preparing to meet our Nuffield Research Placement students! They will be spending three weeks hosting the exhibit and collecting preliminary data to help assess the interactive booth as a way to collect behavioural data from humans "in the wild". Below is the email I sent them to get everyone on the same page for our first day together on Monday, 10 July 2017. 
