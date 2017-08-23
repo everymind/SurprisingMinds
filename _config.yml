@@ -250,7 +250,7 @@ defaults:
   # doc
   - scope:
       path: ""
-      type: doc
+      type: documentation
     values:
       layout: single
       author_profile: false
