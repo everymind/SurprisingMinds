@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "About"
+  - title: "Project Blog"
     url: /about/
   - title: "Projects"
-    url: /projects/
+    url: www.everymind.online/projects/
   - title: "People"
-    url: /people/
+    url: www.everymind.online/people/
   - title: "Resources"
-    url: /resources/
+    url: www.everymind.online/resources/
 
 # SurprisingMinds
-SM: 
+SurprisingMinds: 
   - title: "Surprising Minds"
     url: /SurprisingMinds/
     children: 

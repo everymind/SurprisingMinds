@@ -1,15 +1,14 @@
 ---
 layout: single
-author_profile: true
-author: Danbee Kim
+author_profile: false
 header:
   image: /assets/images/SurprisingMinds_header_small.png
 excerpt: "An exhibit at Sea Life Brighton that uses eye-tracking to bring neuroscience 'into the wild'! "
 categories:
-  - projects
+  - SurprisingMinds
 tags:
   - Sea Life Brighton
-  - Surprising Minds
+  - projects
   - exhibit
   - science in the wild
 gallery: 

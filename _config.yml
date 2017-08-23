@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "EveryMind"
+title                    : "Every Mind Online"
 title_separator          : "-"
-name                     : "EveryMind"
+name                     : "Every Mind Online"
 description              : "An online community that coordinates collaborations between professional scientists and the scientifically curious."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
