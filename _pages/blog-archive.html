@@ -9,12 +9,12 @@ This blog serves as a shared, online open lab notebook for the Surprising Minds 
 
 {% include group-by-array collection=site.posts field="categories" %}
 
-<div class="grid__wrapper">
-  {% for category in group_names %}
-    {% assign posts = group_items[forloop.index0] %}
-    <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-    {% for post in posts %}
+{% for category in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
+  {% for post in posts %}
+    <div class="grid__wrapper">
       {% include archive-single.html type="grid" %}
-    {% endfor %}
+    </div>
   {% endfor %}
-</div>
+{% endfor %}
