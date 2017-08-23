@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: July 13, 2017"
 excerpt: "The day started at 9am however the exhibit only opened at 2:20pm as we had to deal with aesthetic and technical difficulties concerning replacing the old mask with a new one and rewiring the back plate of the acrylic. "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 
