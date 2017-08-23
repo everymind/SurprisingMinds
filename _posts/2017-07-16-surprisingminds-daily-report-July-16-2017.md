@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: July 16, 2017"
 excerpt: "There were less schools in today, but a lot more families consisting of young children. "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 
