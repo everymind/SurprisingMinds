@@ -22,7 +22,7 @@ docs:
   - title: "Building the Exhibit"
     children: 
       - title: "The Interactive Station"
-        url: /Interactive-station/
+        url: /documentation/Interactive-station/
       - title: "The Software"
         url: /Software/
       - title: "Our Scientific Goals"
