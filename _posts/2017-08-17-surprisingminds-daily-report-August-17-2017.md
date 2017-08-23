@@ -7,7 +7,6 @@ categories:
 tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Research Placements
   - prototype
 ---
 
