@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /categories/
+permalink: /blog/
 title: "Project Blog"
 author_profile: true
 ---
