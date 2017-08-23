@@ -3,11 +3,10 @@ title: "Exhibit update: crunch time!"
 excerpt: "It's the weekend before we install the exhibit!"
 author: Danbee Kim
 categories:
-  - Surprising Minds
+  - documentation
 tags:
   - open lab notebook
   - Sea Life Brighton
-  - documentation
 ---
 
 The following is the transcript of an email I sent on July 2, 2017: 
