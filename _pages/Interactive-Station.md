@@ -1,7 +1,7 @@
 ---
 title: "The Interactive Station"
 excerpt: 
-permalink: /documentation/Interactive-station/
+permalink: /Interactive-station/
 categories:
   - documentation
 tags:
