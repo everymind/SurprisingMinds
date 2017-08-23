@@ -1,13 +1,12 @@
 ---
 title: "Daily Report: August 18, 2017"
 excerpt: "It was pretty slow all day, but this meant I got more time with each participant. "
+author: Danbee Kim
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
   - prototype
 ---
 
