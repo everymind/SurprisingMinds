@@ -1,6 +1,7 @@
 ---
 title: "Daily Report: July 11, 2017"
-excerpt: "Below is the daily report template for the exhibit. Please fill it out at the end of each day and email it to both me and Goncalo.  "
+excerpt: "Below is the daily report template for the exhibit. Please fill it out at the end of each day and email it to both me and Goncalo."
+author: Danbee Kim
 categories:
   - daily report
 tags:
