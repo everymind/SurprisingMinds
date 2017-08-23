@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Introduction"
+  - title: "Surprising Minds"
     url: /
   - title: "Project Blog"
     url: /blog/
@@ -12,6 +12,7 @@ main:
 # project documentation
 docs: 
   - title: "Introduction"
+    url: / 
     children: 
       - title: "Eye tracking in Neuroscience"
         url: /Eye-tracking/
