@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: July 14, 2017"
 excerpt: "One of the ladies I spoke to lectured in neuroscience and was incredibly interested by the project. "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 

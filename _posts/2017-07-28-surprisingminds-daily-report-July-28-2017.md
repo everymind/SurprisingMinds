@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: July 28, 2017"
 excerpt: "There were more older children today but they seemed to be lacking in courage as most participants were younger in age. "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 

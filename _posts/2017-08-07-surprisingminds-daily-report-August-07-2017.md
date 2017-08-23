@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: August 07, 2017"
 excerpt: "The day wasn't very busy but there was a usual interest and crowding around the exhibit at peak times. "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 

@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Surprising Minds"
+    url: /
   - title: "Project Blog"
     url: /blog/
   - title: "Dataset"
@@ -10,7 +12,7 @@ main:
 # project documentation
 docs: 
   - title: "Introduction"
-    url: /
+    url: / 
     children: 
       - title: "Eye tracking in Neuroscience"
         url: /Eye-tracking/
@@ -23,6 +25,15 @@ docs:
         url: /Interactive-station/
       - title: "The Software"
         url: /Software/
+      - title: "Our Scientific Goals"
+        url: /Science-goals/
+        
+  - title: "Phase 1: Summer Prototype"
+    children: 
+      - title: "Daily Reports"
+        url: /categories/#daily-report
+      - title: "Summary of Prototype"
+        url: /documentation/summary-of-summer-prototype/
         
         
 

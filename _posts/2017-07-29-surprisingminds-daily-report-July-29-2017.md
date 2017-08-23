@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: July 29, 2017"
 excerpt: "Today remained quite busy but because everyone was in such a rush, not everyone stopped to take a look at the exhibit. "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 

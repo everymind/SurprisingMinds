@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: July 25, 2017"
 excerpt: "The day was quite busy, there were a few foreign schools and a lot of families with kids. "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 

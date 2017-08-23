@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: July 15, 2017"
 excerpt: "I was asked a lot about the science behind it; a lot of parents seemed really interested in understanding why and how the process is done. "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 

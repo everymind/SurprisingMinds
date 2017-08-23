@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: July 17, 2017"
 excerpt: "Not very many people came to the aquarium over the course of the day and those who did were either adults or primary school children or people who did not speak any English. "
+author: Alex Whitworth
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 

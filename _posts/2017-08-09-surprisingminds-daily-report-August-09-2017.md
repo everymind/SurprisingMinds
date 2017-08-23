@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: August 09, 2017"
 excerpt: "busy but short because I slept thru my morning alarms...thanks jetlag :) "
+author: Danbee Kim
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 

@@ -3,11 +3,10 @@ title: "Summary of the summer prototype"
 excerpt: ""
 author: Danbee Kim
 categories:
-  - Surprising Minds
+  - documentation
 tags:
   - open lab notebook
   - Sea Life Brighton
-  - documentation
 ---
 
 Hope you're all having a lovely summer!

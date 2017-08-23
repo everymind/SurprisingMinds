@@ -1,14 +1,13 @@
 ---
 title: "Daily Report: August 11, 2017"
-excerpt: "
-I referred lots of people to the website and I think it would be very beneficial to possibly put weekly updates and have a subscriber list almost. "
+excerpt: "I referred lots of people to the website and I think it would be very beneficial to possibly put weekly updates and have a subscriber list almost. "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 

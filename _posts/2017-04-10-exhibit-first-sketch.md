@@ -3,11 +3,11 @@ title: "First sketch of the exhibit"
 excerpt: ""
 author: Danbee Kim
 categories:
-  - Surprising Minds
+  - documentation
 tags:
   - open lab notebook
   - Sea Life Brighton
-  - documentation
+  - design
 ---
 
 After our first meeting about creating an exhibit with Sea Life Brighton, I made the following mock-up of what I'd like the exhibit to look like: 

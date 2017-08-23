@@ -3,11 +3,10 @@ title: "Where it all began..."
 excerpt: "Notes from the meeting that launched the Surprising Minds exhibit"
 author: Danbee Kim
 categories:
-  - Surprising Minds
+  - documentation
 tags:
   - open lab notebook
   - Sea Life Brighton
-  - documentation
 ---
 
 On April 4, 2017, Adam and I had a meeting with Kerry and Helen from Sea Life Brighton to discuss an outreach project for the summer, which would eventually evolve into the Surprising Minds exhibit. Below are my notes from that meeting:  

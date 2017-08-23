@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: August 13, 2017"
-excerpt: "Reanna's last day! "
+excerpt: "Last day of the Nuffield Research Placement! "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 

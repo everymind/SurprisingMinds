@@ -1,17 +1,17 @@
 ---
 layout: archive
-permalink: /blog/
-title: "Project Blog"
+permalink: /categories/
+title: "Surprising Minds Project Blog"
 author_profile: true
 ---
 
 This blog serves as a shared, online open lab notebook for the Surprising Minds exhibit. Posts are organized by tag below. 
 
-{% include group-by-array collection=site.posts field="tags" %}
+{% include group-by-array collection=site.posts field="categories" %}
 
-{% for tag in group_names %}
+{% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+  <h1 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h1>
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}

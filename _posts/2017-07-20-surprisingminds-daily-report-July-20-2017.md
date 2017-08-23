@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: July 20, 2017"
 excerpt: "The day was quite slow in general but there were a few foreign schools and many people were interested in the science. "
+author: Reanna C-R
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 
