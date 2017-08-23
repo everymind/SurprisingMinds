@@ -247,7 +247,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # doc
+  # _documentation
   - scope:
       path: ""
       type: documentation
