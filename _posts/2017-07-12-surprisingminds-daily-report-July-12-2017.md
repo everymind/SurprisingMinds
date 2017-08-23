@@ -1,13 +1,13 @@
 ---
 title: "Daily Report: July 12, 2017"
 excerpt: "The morning was less successful than the afternoon, mostly due to the large numbers of primary school children that wanted to take part. "
+author: Alex Whitworth
 categories:
-  - Surprising Minds
-tags:
   - daily report
+tags:
   - open lab notebook
   - Sea Life Brighton
-  - Nuffield Summer Placement
+  - Nuffield Research Placements
   - prototype
 ---
 
