@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Every Mind Online"
-title_separator          : "-"
-name                     : "Every Mind Online"
-description              : "An online community that coordinates collaborations between professional scientists and the scientifically curious."
+title                    : "Surprising Minds"
+title_separator          : "|"
+name                     : "Surprising Minds"
+description              : "Studiyng the Mind 'in the wild'"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -247,15 +247,17 @@ defaults:
       comments: true
       share: true
       related: true
-  # _projects
+  # doc
   - scope:
       path: ""
-      type: projects
+      type: doc
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       comments: true
       share: true
+      sidebar:
+        nav: "docs"
         
 # Collections
 collections: 

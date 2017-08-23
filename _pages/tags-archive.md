@@ -1,9 +1,11 @@
 ---
 layout: archive
-permalink: /tags/
-title: "Open Lab Notebook, posts by tag"
+permalink: /blog/
+title: "Project Blog"
 author_profile: true
 ---
+
+This blog serves as a shared, online open lab notebook for the Surprising Minds exhibit. Posts are organized by tag below. 
 
 {% include group-by-array collection=site.posts field="tags" %}
 
