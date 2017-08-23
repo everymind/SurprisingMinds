@@ -260,4 +260,7 @@ defaults:
         nav: "docs"
         
 # Collections
-  
+collections:  
+  documentation:  
+    output: true
+    permalink: /:collection/:path/
