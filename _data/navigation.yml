@@ -14,7 +14,7 @@ docs:
   - title: "Introduction"
     url: / 
     children: 
-      - title: "Eye tracking in Neuroscience"
+      - title: "Eye tracking for Neuroscience"
         url: /Eye-tracking/
       - title: "Behaviour 'in the wild'"
         url: /Behaviour-in-the-wild/
