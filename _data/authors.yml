@@ -1,5 +1,6 @@
 Every Mind: 
   name: "Every Mind" 
+  uri: "http://everymind.online"
   email: "everymind@protonmail.com"
   bio: "An online community for people interested in collaborating across fields to better study how brains understand the world."
   avatar: "/assets/images/20170315_LondonArt_small.png"
