@@ -24,17 +24,23 @@ gallery:
 
 {% include toc icon="anchor" title="Surprising Minds" %}
 
-During the summer of 2017, Sea Life Brighton will host an interactive science exhibit that protoypes a new way to ask scientific questions about behaviour and the mind "in the wild"! 
+In July 2017, we installed an interactive science exhibit at Sea Life Brighton in order to protoype a new way to ask scientific questions about behaviour and the mind "in the wild". We hope that exhibit will help make topics in neuroscience and cognitive science more inclusive and accessible to the general public.
 
-## How do you participate?
+## What is 'intelligence'?
 
-Watch a 30-second video for science! While you watch, we'll video record your eyes, then replay the recording so that you can see what your eyes do when you watch movies, or look at the world!
+Intelligence is the power of brains to predict the world. It helps us learn what to expect next!
 
-## How does this help neuroscience?
+We use our expectations all the time by creating a model in our minds of "how things should work." Scientists call this your "model of the world"!
 
-Traditional science experiments studying human behaviour are most often conducted inside laboratories with 10 to 50 participants, and then generalized to conclude something about the behaviour of all humans. We believe that such small datasets run a great risk of misleading our understanding of human behaviour.
+## How do we create our 'model of the world'?
 
-So, we want to bring these studies of behaviour out of the laboratory and "into the wild"! For humans, this means bringing our experiments to places like the Sea Life center, where 50 to 100 people per day can participate in our studies, discuss our hypotheses and results, and learn about cutting edge ideas and technologies for understanding minds. 
+We create our "model of the world" by collecting information about the world around us. While smells, sounds, tastes, feelings, and experiences are all part of our "model of the world", most of the information we collect comes through our eyes. 
+
+## Do you know what your eyes do when you look at the world?
+
+Looking is one of the first behaviours we develop as infants, long before we learn how to talk. But have you ever seen your own eyes up close, to see what they do when they collect information about the world around you? 
+
+At the Surprising Minds exhibit, you can do exactly that! Come watch a 30-second video clip while we record your eyes up close. Then we'll replay the recording so that you can see what your eyes do when you watch movies, or look at the world!
 
 ## Want to learn more?
 

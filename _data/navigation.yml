@@ -6,8 +6,8 @@ main:
     url: /blog/
   - title: "Dataset"
     url: https://www.dropbox.com/sh/cip8b7vingvbmra/AACDyEf4AYVxzj-9erjtLwTXa?dl=0
-  - title: "Community"
-    url: /community/
+  - title: "Gallery"
+    url: https://www.instagram.com/explore/tags/surprisingminds/
 
 # project documentation
 docs: 
@@ -22,7 +22,7 @@ docs:
   - title: "Building the Exhibit"
     children: 
       - title: "The Interactive Station"
-        url: /documentation/Interactive-station/
+        url: /Interactive-station/
       - title: "The Software"
         url: /Software/
       - title: "Our Scientific Goals"
@@ -31,7 +31,7 @@ docs:
   - title: "Phase 1: Summer Prototype"
     children: 
       - title: "Daily Reports"
-        url: /categories/#daily-report
+        url: /blog/#daily-report
       - title: "Summary of Prototype"
         url: /documentation/summary-of-summer-prototype/
         
