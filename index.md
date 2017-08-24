@@ -24,7 +24,7 @@ gallery:
 
 {% include toc icon="anchor" title="Surprising Minds" %}
 
-In July 2017, we installed an interactive science exhibit at Sea Life Brighton in order to **protoype a new way to ask scientific questions about behaviour and the mind "in the wild"**. We hope that the exhibit will help us make topics in neuroscience and cognitive science more inclusive and accessible to the general public.
+In July 2017, we installed an interactive science exhibit at Sea Life Brighton in order to **explore a new way to ask scientific questions about behaviour and the mind "in the wild"**. We hope that the exhibit will help us make topics in neuroscience and cognitive science more inclusive and accessible to the general public.
 
 ## What is 'intelligence'?
 
