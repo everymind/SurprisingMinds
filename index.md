@@ -36,7 +36,7 @@ We use our expectations all the time by creating a model in our minds of "how th
 
 We create our "model of the world" by collecting information about the world around us. While smells, sounds, tastes, feelings, and experiences are all part of our "model of the world", most of the information we collect comes through our eyes. 
 
-## Do you know what your eyes do when you look at the world?
+## What your eyes do when you create your 'model of the world'?
 
 Looking is one of the first behaviours we develop as infants, long before we learn how to talk. But have you ever seen your own eyes up close, to see what they do when they collect information about the world around you? 
 
