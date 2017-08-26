@@ -1,6 +1,6 @@
 ---
 title: "Daily Report: August 24, 2017"
-excerpt: "The exhibit got a steady stream of visitors today; many were the usual foreign language study students, but I also got a significant number of non-white european phenotypes trying out the exhibit."
+excerpt: "It was a very slow and quiet day. Everyone seemed tired or sick or lethargic -- it was quite difficult to engage people in conversations, and for the first time I saw many young people show extreme trepidation to try out the exhibit."
 author: Danbee Kim
 categories:
   - daily report
