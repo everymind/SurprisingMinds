@@ -52,9 +52,9 @@ Share your thoughts, photos, and videos of the exhibit on twitter, instagram, an
 
 ## Acknowledgements
 
-| [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead, PhD candidate, Sea Life Brighton Scientist-in-Residence | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
+| [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
 | Kerry Perkins    | Project Co-Lead   | [Sea Life Brighton](https://www.visitsealife.com/brighton/) |
-| Reanna Campbell-Russo | Data collection, Apprentice Scientist-in-Residence | Nuffield Research Placements| 
+| Reanna Campbell-Russo | Pilot Data Collection | Nuffield Research Placements| 
 | Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | [Sol Vin](mailto:info@sol-vin.com)  |
 | Hazel Garnade    | Design and Fabrication of outer casing for eye-tracking station | [Sol Vin](mailto:info@sol-vin.com)  |
 | Goncalo Lopes    | Eyetracking Software | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
