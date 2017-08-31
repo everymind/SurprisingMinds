@@ -52,7 +52,7 @@ Share your thoughts, photos, and videos of the exhibit on twitter, instagram, an
 
 ## Acknowledgements
 
-| [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
+| [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead, PhD candidate, Sea Life Brighton Scientist-in-Residence | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
 | Kerry Perkins    | Project Co-Lead   | [Sea Life Brighton](https://www.visitsealife.com/brighton/) |
 | Reanna Campbell-Russo | Data collection, Apprentice Scientist-in-Residence | Nuffield Research Placements| 
 | Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | [Sol Vin](mailto:info@sol-vin.com)  |
@@ -75,8 +75,6 @@ Share your thoughts, photos, and videos of the exhibit on twitter, instagram, an
 The EveryMind Team for continuous and unflagging support and enthusiasm;   
 
 Alice Taylor-Gee (Sainsbury Wellcome Centre) for nurturing a momentum for public outreach and engagement at the Sainsbury Wellcome Centre, and for connecting us with the Nuffield Research Placement program;  
-
-Helen Fitzgerald (Sea Life Brighton) for her support throughout the project at Sea Life Brighton;
 
 and Daniel Osorio (Sussex University) for initiating the collaboration with Sea Life Brighton.
 
