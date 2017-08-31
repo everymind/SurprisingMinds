@@ -7,7 +7,7 @@ sidebar:
   nav: docs
 ---
 
-This blog serves as a shared, online, open lab notebook for the Surprising Minds exhibit. Posts are organized by category below. 
+This blog serves as a shared, online, open lab notebook for the Surprising Minds exhibit. Posts are organized by tag below. 
 
 {% include group-by-array collection=site.posts field="tags" %}
 
