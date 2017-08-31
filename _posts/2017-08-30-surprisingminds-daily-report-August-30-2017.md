@@ -1,6 +1,6 @@
 ---
 title: "Daily Report: August 30, 2017"
-excerpt: ""
+excerpt: "I tried not to actively busk for participants; I wanted to see how many people would approach on their own accord."
 author: Danbee Kim
 categories:
   - daily report
