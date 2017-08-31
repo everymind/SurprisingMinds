@@ -26,17 +26,17 @@ gallery:
 
 In July 2017, we installed an interactive science exhibit at Sea Life Brighton in order to **explore a new way to ask scientific questions about behaviour and the mind "in the wild"**. We hope that the exhibit will help us make research in neuroscience and cognitive science more inclusive and accessible to the general public. 
 
-Our exhibit is located in the main arcade of the 
+Our exhibit is located next to the cuttlefish display tank in the main arcade of Sea Life Brighton. Here we introduce Sea Life visitors to the main idea underlying **comparative neuroscience**: even brains that look totally different can evolve the same kinds of brain "powers", for example, the power of "intelligence". 
 
 ## What is 'intelligence'?
 
 Intelligence is the power of brains to predict the world. It helps us learn what to expect next!
 
-We use our expectations all the time by creating a model in our minds of "how things should work." Scientists call this your "model of the world"!
+We use our expectations all the time by creating a model in our minds of "how things should work." Scientists call this your "model of the world".
 
 ## How do we create our 'model of the world'?
 
-We create our "model of the world" by collecting information about the world around us. While smells, sounds, tastes, feelings, and experiences are all part of our "model of the world", most of the information we collect comes through our eyes. 
+We create our "model of the world" by collecting information about the world around us. While smells, sounds, tastes, feelings, and experiences are all part of our "model of the world", the primary input device of human brains is our eyes. 
 
 ## What your eyes do when you create your 'model of the world'?
 
