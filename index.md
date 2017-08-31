@@ -24,7 +24,9 @@ gallery:
 
 {% include toc icon="anchor" title="Surprising Minds" %}
 
-In July 2017, we installed an interactive science exhibit at Sea Life Brighton in order to **explore a new way to ask scientific questions about behaviour and the mind "in the wild"**. We hope that the exhibit will help us make topics in neuroscience and cognitive science more inclusive and accessible to the general public.
+In July 2017, we installed an interactive science exhibit at Sea Life Brighton in order to **explore a new way to ask scientific questions about behaviour and the mind "in the wild"**. We hope that the exhibit will help us make research in neuroscience and cognitive science more inclusive and accessible to the general public. 
+
+Our exhibit is located in the main arcade of the 
 
 ## What is 'intelligence'?
 
@@ -54,20 +56,20 @@ Share your thoughts, photos, and videos of the exhibit on twitter, instagram, an
 
 | [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
 | Kerry Perkins    | Project Co-Lead   | [Sea Life Brighton](https://www.visitsealife.com/brighton/) |
-| Reanna Campbell-Russo | Pilot Data Collection | Nuffield Research Placements| 
 | Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | [Sol Vin](mailto:info@sol-vin.com)  |
 | Hazel Garnade    | Design and Fabrication of outer casing for eye-tracking station | [Sol Vin](mailto:info@sol-vin.com)  |
 | Goncalo Lopes    | Eyetracking Software | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Dario Quinones   | Eyetracking Hardware | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
-| Kirsty McNaught   | Eyetracking Systems Consultant | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Reanna Campbell-Russo | Pilot Data Collection | Nuffield Research Placements| 
 | [Fedor Lischenko](mailto:Fedor-LN@ya.ru) | Video content contributor | Russian Federal Research Institute of Fisheries and Oceanography |
 | [Caitlin O'Brien](mailto:ceobrien5@gmail.com) | Video content contributor | Université de Caen Normandie |
 | [Ryuta Nakajima](http://ryutanakajima.com/) | Video content contributor | Independent Artist |
 | Roger T. Hanlon | Video content contributor | Marine Biological Laboratory, Woods Hole, USA |
 | Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
-| Karen Fergus     | Administrative assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Kirsty McNaught  | Eyetracking Systems Consultant | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Martyn Stopps    | Prototyping and fabrication assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Robb Barrett     | Prototyping and fabrication assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Karen Fergus     | Administrative assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Adam Kampff      | PhD Advisor | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 
 **Many additional thanks to** 
