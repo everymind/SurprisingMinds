@@ -67,8 +67,8 @@ Share your thoughts, photos, and videos of the exhibit on twitter, instagram, an
 | Roger T. Hanlon | Video content contributor | Marine Biological Laboratory, Woods Hole, USA |
 | Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Kirsty McNaught  | Eyetracking Systems Consultant | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
-| Martyn Stopps    | Prototyping and fabrication assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Robb Barrett     | Prototyping and fabrication assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Martyn Stopps    | Prototyping and fabrication assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Karen Fergus     | Administrative assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Adam Kampff      | PhD Advisor | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 
