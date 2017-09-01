@@ -48,7 +48,9 @@ At the Surprising Minds exhibit, you can do exactly that! Come watch a 30-second
 
 Check out our [project blog](/SurprisingMinds/blog/) for documentation of the project, and recent news and updates!
 
-Visit [Surprising Minds' github repository](https://github.com/everymind/SurprisingMinds) to see the dataset, our analysis code, and visualizations of the project's results! 
+The software used to run the interactive station can be found in [the Surprising Minds Exhibit github repository](https://github.com/everymind/SurprisingMinds-Exhibit). 
+
+Our analyses of the exhibit's datasets can be found in [the Surprising Minds Analysis github repository](https://github.com/everymind/SurprisingMinds-Analysis).
 
 Share your thoughts, photos, and videos of the exhibit on twitter, instagram, and facebook using #surprisingminds and #everymindonline!
 
