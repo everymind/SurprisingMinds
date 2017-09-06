@@ -66,12 +66,13 @@ Share your thoughts, photos, and videos of the exhibit on twitter, instagram, an
 | [Fedor Lischenko](mailto:Fedor-LN@ya.ru) | Video content contributor | Russian Federal Research Institute of Fisheries and Oceanography |
 | [Caitlin O'Brien](mailto:ceobrien5@gmail.com) | Video content contributor | Université de Caen Normandie |
 | [Ryuta Nakajima](http://ryutanakajima.com/) | Video content contributor | Independent Artist |
+| Joanna Nogueira | Video content contributor | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Roger T. Hanlon | Video content contributor | Marine Biological Laboratory, Woods Hole, USA |
-| Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
-| Kirsty McNaught  | Eyetracking Systems Consultant | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
-| Robb Barrett     | Prototyping and fabrication assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
-| Martyn Stopps    | Prototyping and fabrication assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
-| Karen Fergus     | Administrative assistance | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Centre |
+| Kirsty McNaught  | Eyetracking Systems Consultant | Gatsby Computational Neuroscience Unit |
+| Robb Barrett     | Prototyping and fabrication assistance | Sainsbury Wellcome Centre |
+| Martyn Stopps    | Prototyping and fabrication assistance | Sainsbury Wellcome Centre |
+| Karen Fergus     | Administrative assistance | Sainsbury Wellcome Centre |
 | Adam Kampff      | PhD Advisor | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 
 **Many additional thanks to** 
