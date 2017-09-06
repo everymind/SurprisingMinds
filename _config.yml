@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Surprising Minds"
 title_separator          : "|"
 name                     : "Surprising Minds"
-description              : "Studiyng the Mind 'in the wild'"
+description              : "Surprising Minds is an exhibit at the Sea Life Centre in Brighton, UK, which explores a new way to ask scientific questions about behaviour and the mind 'in the wild'."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,17 +77,17 @@ analytics:
 
 # Site Author
 author:
-  name             : Every Mind
+  name             : Every Mind Online
   avatar           : "/assets/images/20170315_LondonArt_small.png"
   bio              : "An online community for people interested in collaborating across fields to better study how brains understand the world."
   location         : "the world"
   email            : "everymind@protonmail.com"
-  uri              :
+  uri              : "www.everymind.online"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "every.mind.online"
   foursquare       :
   github           :
   google_plus      :
