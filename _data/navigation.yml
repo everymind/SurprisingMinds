@@ -5,7 +5,7 @@ main:
   - title: "Project Blog"
     url: /categories/
   - title: "Dataset"
-    url: https://www.dropbox.com/sh/x2nwjelmvx7i0m6/AAAxYZqbv_3ARkWDqJv0xGk4a?dl=0
+    url: /dataset/
   - title: "Gallery"
     url: https://www.instagram.com/explore/tags/surprisingminds/
 
