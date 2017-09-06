@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /dataset/
-author_profile: false
+author_profile: true
 ---
 
 We will soon be posting a pre-processed dataset from the exhibit! 
