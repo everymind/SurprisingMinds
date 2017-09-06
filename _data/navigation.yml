@@ -18,7 +18,7 @@ docs:
 #        url: /Behaviour-in-the-wild/
 #      - title: "Eye tracking for Neuroscience"
 #        url: /Eye-tracking/
-        
+#        
 #  - title: "Building the Exhibit"
 #    children: 
 #      - title: "Our Scientific Goals"
@@ -27,7 +27,7 @@ docs:
 #        url: /Interactive-station/
 #      - title: "The Software"
 #        url: /Software/
-        
+#        
   - title: "Phase 1: Summer Prototype"
     children: 
       - title: "Daily Reports"
