@@ -46,7 +46,7 @@ At the Surprising Minds exhibit, you can do exactly that! Come watch a 30-second
 
 ## Want to learn more?
 
-Check out our [project blog](/SurprisingMinds/blog/) for documentation of the project, and recent news and updates!
+Check out our [project blog](/SurprisingMinds/categories/) for documentation of the project, and recent news and updates!
 
 The software used to run the interactive station can be found in [the Surprising Minds Exhibit github repository](https://github.com/everymind/SurprisingMinds-Exhibit). 
 
