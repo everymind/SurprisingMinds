@@ -11,22 +11,22 @@ main:
 
 # project documentation
 docs: 
-  - title: "Introduction"
-    url: / 
-    children: 
-      - title: "Behaviour 'in the wild'"
-        url: /Behaviour-in-the-wild/
-      - title: "Eye tracking for Neuroscience"
-        url: /Eye-tracking/
+#  - title: "Introduction"
+#    url: / 
+#    children: 
+#      - title: "Behaviour 'in the wild'"
+#        url: /Behaviour-in-the-wild/
+#      - title: "Eye tracking for Neuroscience"
+#        url: /Eye-tracking/
         
-  - title: "Building the Exhibit"
-    children: 
-      - title: "Our Scientific Goals"
-        url: /Science-goals/
-      - title: "The Interactive Station"
-        url: /Interactive-station/
-      - title: "The Software"
-        url: /Software/
+#  - title: "Building the Exhibit"
+#    children: 
+#      - title: "Our Scientific Goals"
+#        url: /Science-goals/
+#      - title: "The Interactive Station"
+#        url: /Interactive-station/
+#      - title: "The Software"
+#        url: /Software/
         
   - title: "Phase 1: Summer Prototype"
     children: 
