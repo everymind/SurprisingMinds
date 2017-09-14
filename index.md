@@ -54,6 +54,10 @@ Our analyses of the exhibit's datasets can be found in [the Surprising Minds Ana
 
 Share your thoughts, photos, and videos of the exhibit on twitter, instagram, and facebook using #surprisingminds and #everymindonline!
 
+## How to cite this project
+
+Kim D, Perkins K, Ramble C, Garnade H, Lopes G, Quinones D, Campbell-Russo R, Lischenko F, O'Brien C, Nakajima R, Hanlon RT, Blaney I, McNaught K, Barrett R, Stopps M, Fergus K, Taylor-Gee A, Osorio D, The EveryMind Team, Kampff A. *Surprising Minds*. Interactive installation and crowd human behaviour experiment. Installed 4 July 2017 at Sea Life Brighton, Brighton, UK.
+
 ## Acknowledgements
 
 | [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
