@@ -25,4 +25,4 @@ In vertebrate animals, or animals with a spinal cord, our nervous system starts 
 
 This means that your eyes are literally bits of your brain pushed out of your head into the world. When you look someone in the eyes, you're actually looking at their brain! 
 
-This means that observing eyes very carefully is almost like directly observing the brain, without needing to cut open the skull. Granted, the eyes are a very specialized section of the brain, so it's just the tip of the iceberg. 
+This means that observing eyes very carefully is almost like directly observing the brain, without needing to cut open the skull. Granted, the eyes are a very specialized section of the brain, so they can't tell us everything about the nervous system they serve. But because eyes are a huge source of information for most humans, watching what someone looks at, for how long, can tell you a lot about what they find interesting or surprising, which in turn can help you guess their past experience and current feelings. 
