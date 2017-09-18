@@ -16,8 +16,8 @@ docs:
     children:
       - title: "Eye tracking for Neuroscience"
         url: /Eye-tracking/
-      - title: "Behaviour 'in the wild'"
-        url: /Behaviour-in-the-wild/
+      - title: "Behavior 'in the wild'"
+        url: /Behavior-in-the-wild/
         
 #  - title: "Building the Exhibit"
 #    children: 
