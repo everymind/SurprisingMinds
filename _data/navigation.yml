@@ -3,7 +3,7 @@ main:
   - title: "Surprising Minds"
     url: /
   - title: "Project Blog"
-    url: /categories/
+    url: /blog/
   - title: "Dataset"
     url: /dataset/
   - title: "Gallery"
