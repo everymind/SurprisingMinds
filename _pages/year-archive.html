@@ -16,8 +16,6 @@ This blog serves as a shared, online, open lab notebook for the Surprising Minds
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   <div class="grid__wrapper">
-    {% for post in site.posts %}
-      {% include archive-single.html type="grid" %}
-    {% endfor %}
+    {% include archive-single.html type="grid" %}
   </div>
 {% endfor %}
