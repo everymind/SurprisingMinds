@@ -1,6 +1,6 @@
 ---
 title: "Eye-tracking for Neuroscience"
-excerpt: 'Eye-tracking' is a term used to describe the study of eye movements.
+excerpt: "'Eye-tracking' is a term used to describe the study of eye movements."
 permalink: /Eye-tracking/
 categories:
   - background
