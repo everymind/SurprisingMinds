@@ -11,14 +11,14 @@ main:
 
 # project documentation
 docs: 
-  - title: "Introduction"
-    url: / 
-    children:
-      - title: "Eye tracking for Neuroscience"
-        url: /Eye-tracking/
-      - title: "Behaviour 'in the wild'"
-        url: /Behaviour-in-the-wild/
-        
+#  - title: "Introduction"
+#    url: / 
+#    children:
+#      - title: "Eye tracking for Neuroscience"
+#        url: /Eye-tracking/
+#      - title: "Behaviour 'in the wild'"
+#        url: /Behaviour-in-the-wild/
+#        
 #  - title: "Building the Exhibit"
 #    children: 
 #      - title: "Our Scientific Goals"
