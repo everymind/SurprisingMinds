@@ -7,7 +7,7 @@ main:
   - title: "Dataset"
     url: /dataset/
   - title: "Gallery"
-    url: https://www.instagram.com/explore/tags/surprisingminds/
+    url: /gallery/
 
 # project documentation
 docs: 
