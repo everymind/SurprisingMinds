@@ -17,6 +17,8 @@ The Surprising Minds project is part of an effort to develop meaningful methods 
 
 ## Informal Learning Spaces
 
+Science doesn't happen only in laboratories, the same way that learning doesn't happen only in classrooms. 
+
 ## Crowd Science
 
 ## More Behavior Data for Neuroscience
