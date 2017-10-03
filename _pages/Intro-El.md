@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /gk/
+permalink: /el/
 author_profile: false
 header:
   image: /assets/images/SurprisingMinds_header_small.png
