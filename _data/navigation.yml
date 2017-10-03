@@ -16,6 +16,24 @@ docs:
     children: 
       - title: "Français"
         url: /fr/
+      - title: "Deutsche"
+        url: /de/
+      - title: "Italiano"
+        url: /it/
+      - title: "中文"
+        url: /ch/
+      - title: "Español"
+        url: /es/
+      - title: "Português"
+        url: /pt/
+      - title: "Ελληνικά"
+        url: /el/
+      - title: "Nederlands"
+        url: /nd/
+      - title: "Română"
+        url: /ro/
+      - title: "한국어"
+        url: /kr/
     
   - title: "Background"  
     children:
