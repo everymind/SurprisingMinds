@@ -13,6 +13,11 @@ main:
 docs: 
   - title: "Introduction"
     url: / 
+    children: 
+      - title: "Français"
+        url: /fr/
+    
+  - title: "Background"  
     children:
       - title: "Eye tracking for Neuroscience"
         url: /Eye-tracking/
