@@ -73,6 +73,7 @@ Kim D, Perkins K, Ramble C, Garnade H, Lopes G, Quinones D, Campbell-Russo R, Li
 | Joanna Nogueira | Video content contributor | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Roger T. Hanlon | Video content contributor | Marine Biological Laboratory, Woods Hole, USA |
 | [Cédric Honnet](http://honnet.eu/) | French translator | Sorbonne University, UPMC |
+| Elena Zamfir | Romanian translator | Gatsby Computational Neuroscience Unit, UCL, London |
 | Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Centre |
 | Kirsty McNaught  | Eyetracking Systems Consultant | Gatsby Computational Neuroscience Unit |
 | Robb Barrett     | Prototyping and fabrication assistance | Sainsbury Wellcome Centre |
