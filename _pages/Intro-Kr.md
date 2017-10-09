@@ -28,7 +28,7 @@ gallery:
  
 여기 Sea Life Center에서는 인간행동 실험에 하루에 50 명이 넘는 사람들이 참여할 수 있습니다! 이것은 인간 행동에 대한 보다 정확한 과학적 그림을 그릴 수 있게 해줍니다.
  
-더 자세한 내용은 저희 [프로젝트 웹 사이트](www.everymind.online/SurprisingMinds)를 방문하면 알 수 있습니다. 
+더 자세한 내용은 저희 [프로젝트 웹 사이트](http://www.everymind.online/SurprisingMinds)를 방문하면 알 수 있습니다. 
 
 그리고 트위터, 인스타그램 또는 페이스북에서 #SurprisingMinds에 대한 의견을 적극 공유하여 주십시오!
 
