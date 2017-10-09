@@ -28,7 +28,7 @@ Această expoziție face parte dintr-un efort de a scoate experimentele din neur
 
 Aici, la Centrul Sea Life, peste 50 de persoane pe zi pot participa la experimentele noastre despre comportamentul și mintea umană! Acest lucru ne ajută să construim o imagine științifică mai exactă a comportamentului uman.
 
-Pentru a afla mai multe, [vizitați site-ul nostru de proiect](www.everymind.online/SurprisingMinds).
+Pentru a afla mai multe, [vizitați site-ul nostru de proiect](http://www.everymind.online/SurprisingMinds).
 
 Împărtășiți-vă gândurile despre #SurprisingMinds pe twitter, instagram, facebook!
 
