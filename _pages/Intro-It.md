@@ -28,7 +28,7 @@ Questa mostra è parte di uno sforzo per portare esperimenti di neuroscienze fuo
 
 Qui al Sea Life Center, i nostri esperimenti sul comportamento umano consentono la partecipazione di oltre 50 persone al giorno! Questo ci aiuta a costruire un quadro scientifico più preciso del comportamento umano.
 
-Per ulteriori informazioni, [visita il sito web del nostro progetto](www.everymind.online/SurprisingMinds).
+Per ulteriori informazioni, [visita il sito web del nostro progetto](http://www.everymind.online/SurprisingMinds).
 
 Condividi i tuoi pensieri su #SurprisingMinds su twitter, instagram o facebook!
 
