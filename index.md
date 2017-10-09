@@ -70,8 +70,8 @@ Kim D, Perkins K, Ramble C, Garnade H, Lopes G, Quinones D, Campbell-Russo R, Li
 | [Fedor Lischenko](mailto:Fedor-LN@ya.ru) | Video content contributor | Russian Federal Research Institute of Fisheries and Oceanography |
 | [Caitlin O'Brien](mailto:ceobrien5@gmail.com) | Video content contributor | Université de Caen Normandie |
 | [Ryuta Nakajima](http://ryutanakajima.com/) | Video content contributor | Independent Artist |
-| Joanna Nogueira | Video content contributor, Portuguese translator | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Roger T. Hanlon | Video content contributor | Marine Biological Laboratory, Woods Hole, USA |
+| Joanna Nogueira | Video content contributor, Portuguese translator | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Lory Calcaterra | Italian translator, 3D design of custom camera holders | Sainsbury Wellcome Centre for Neural Circuits and Behaviour|
 | [Cédric Honnet](http://honnet.eu/) | French translator | Sorbonne University, UPMC |
 | Elena Zamfir | Romanian translator | Gatsby Computational Neuroscience Unit |
