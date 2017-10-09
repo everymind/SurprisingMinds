@@ -2,7 +2,7 @@
 layout: archive
 permalink: /tags/
 title: "Surprising Minds Project Blog"
-author_profile: false
+author_profile: true
 sidebar: 
   nav: docs
 ---
