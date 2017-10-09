@@ -28,7 +28,7 @@ Deze tentoonstelling is deel van een initiatief om neurowetenschappelijke experi
 
 Here in het Sea Life Centre kunnen meer dan 50 mensen per dag deelnemen aan onze experimenten! Dit helpt ons om een beter wetenschappelijk beeld te schetsen van menselijk gedrag en het brein. 
 
-Meer weten? Ga dan nu naar [www.everymind.online/SurprisingMinds](www.everymind.online/SurprisingMinds), en deel je ervaringen over #SurprisingMinds op Twitter, Instagram of Facebook!
+Meer weten? Ga dan nu naar [www.everymind.online/SurprisingMinds](http://www.everymind.online/SurprisingMinds), en deel je ervaringen over #SurprisingMinds op Twitter, Instagram of Facebook!
 
 {% include gallery caption="This exhibit is sponsored by the Sainsbury Wellcome Centre and hosted by Sea Life Brighton" %}
 
