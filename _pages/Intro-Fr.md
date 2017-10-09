@@ -28,7 +28,7 @@ Cette exposition fait partie d'une initiative qui a pour but de faire sortir des
 
 Ici, au Sea Life Centre, nos expériences sur le comportement humain permettent la participation de plus de 50 personnes par jour! Cela nous aide à construire une image scientifique bien plus précise du cerveau humain.
 
-Pour en savoir plus, visitez [le site Web de notre projet](www.everymind.online/SurprisingMinds).
+Pour en savoir plus, visitez [le site Web de notre projet](http://www.everymind.online/SurprisingMinds).
 
 Et n'hésitez pas à utiliser le mot-clé #SurprisingMinds sur twitter, instagram ou facebook!
 
