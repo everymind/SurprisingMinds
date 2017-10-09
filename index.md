@@ -60,7 +60,7 @@ Kim D, Perkins K, Ramble C, Garnade H, Lopes G, Quinones D, Campbell-Russo R, Li
 
 ## Acknowledgements
 
-| [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | International Neuroscience Doctoral Programme, Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
+| [Danbee Kim](http://danbeekim.org) | Project Co-Lead | International Neuroscience Doctoral Programme, Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
 | Kerry Perkins    | Project Co-Lead   | [Sea Life Brighton](https://www.visitsealife.com/brighton/) |
 | Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | [Sol Vin](mailto:info@sol-vin.com)  |
 | Hazel Garnade    | Design and Fabrication of outer casing for eye-tracking station | [Sol Vin](mailto:info@sol-vin.com)  |
