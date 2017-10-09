@@ -28,7 +28,7 @@ gallery:
 
 而在海洋生物中心，每天有超过50人参与我们的人类行为实验！ 这有助于我们更精确、科学地勾勒出人类的行为。
 
-要了解更多信息，请访问我们的项目网站 [www.everymind.online/SurprisingMinds](www.everymind.online/SurprisingMinds)。
+要了解更多信息，请访问我们的项目网站 [www.everymind.online/SurprisingMinds](/)。
 
 请在微博、instagram或Facebook分享您对神奇心灵的想法（#SurprisingMinds）！
 
