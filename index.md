@@ -60,7 +60,7 @@ Kim D, Perkins K, Ramble C, Garnade H, Lopes G, Quinones D, Campbell-Russo R, Li
 
 ## Acknowledgements
 
-| [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
+| [Danbee Kim](mailto:danbee@alum.mit.edu) | Project Co-Lead | International Neuroscience Doctoral Programme, Sainsbury Wellcome Centre for Neural Circuits and Behaviour  |
 | Kerry Perkins    | Project Co-Lead   | [Sea Life Brighton](https://www.visitsealife.com/brighton/) |
 | Clive Ramble     | Design and Fabrication of outer casing for eye-tracking station | [Sol Vin](mailto:info@sol-vin.com)  |
 | Hazel Garnade    | Design and Fabrication of outer casing for eye-tracking station | [Sol Vin](mailto:info@sol-vin.com)  |
@@ -70,10 +70,17 @@ Kim D, Perkins K, Ramble C, Garnade H, Lopes G, Quinones D, Campbell-Russo R, Li
 | [Fedor Lischenko](mailto:Fedor-LN@ya.ru) | Video content contributor | Russian Federal Research Institute of Fisheries and Oceanography |
 | [Caitlin O'Brien](mailto:ceobrien5@gmail.com) | Video content contributor | Université de Caen Normandie |
 | [Ryuta Nakajima](http://ryutanakajima.com/) | Video content contributor | Independent Artist |
-| Joanna Nogueira | Video content contributor | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Joanna Nogueira | Video content contributor, Portuguese translator | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Roger T. Hanlon | Video content contributor | Marine Biological Laboratory, Woods Hole, USA |
+| Lory Calcaterra | Italian translator, 3D design of custom camera holders | Sainsbury Wellcome Centre for Neural Circuits and Behaviour|
 | [Cédric Honnet](http://honnet.eu/) | French translator | Sorbonne University, UPMC |
-| Elena Zamfir | Romanian translator | Gatsby Computational Neuroscience Unit, UCL, London |
+| Elena Zamfir | Romanian translator | Gatsby Computational Neuroscience Unit |
+| Christian Niedworok | German translator | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Kevin Li | Chinese translator | Gatsby Computational Neuroscience Unit |
+| Alex Gomez-Marin | Spanish translator | Instituto de Neurociencias de Alicante|
+| Seong-Gon Kim | Korean translator | Mississippi State University |
+| George Dimitriadis | Greek translator | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
+| Jesse Geerts | Dutch translator | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Centre |
 | Kirsty McNaught  | Eyetracking Systems Consultant | Gatsby Computational Neuroscience Unit |
 | Robb Barrett     | Prototyping and fabrication assistance | Sainsbury Wellcome Centre |
