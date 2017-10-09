@@ -28,7 +28,7 @@ Die Ausstellung versucht dazu beizutragen, neurowissenschaftliche Experimente vo
 
 Hier am Sea Life Center können jedoch täglich über 50 Personen an den Experimenten teilnehmen! Das hilft uns ein akkurateres Bild des menschlichen Verhaltens zu bekommen.
 
-Um mehr über das Projekt zu lernen kannst du unsere Webseite unter [www.everymind.online/SurprisingMinds](www.everymind.online/SurprisingMinds) besuchen. 
+Um mehr über das Projekt zu lernen kannst du unsere Webseite unter [www.everymind.online/SurprisingMinds](https://www.everymind.online/SurprisingMinds) besuchen. 
 
 Und wenn du willst kannst du deine Meinung zu #SurprisingMinds natürlich auch auf twitter, instagram oder facebook posten!
 
