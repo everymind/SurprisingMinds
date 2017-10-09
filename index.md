@@ -81,8 +81,8 @@ Kim D, Perkins K, Ramble C, Garnade H, Lopes G, Quinones D, Campbell-Russo R, Li
 | Seong-Gon Kim | Korean translator | Mississippi State University |
 | George Dimitriadis | Greek translator | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
 | Jesse Geerts | Dutch translator | Sainsbury Wellcome Centre for Neural Circuits and Behaviour |
-| Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Centre |
 | Kirsty McNaught  | Eyetracking Systems Consultant | Gatsby Computational Neuroscience Unit |
+| Ian Blaney       | Stores and Logistics Manager | Sainsbury Wellcome Centre |
 | Robb Barrett     | Prototyping and fabrication assistance | Sainsbury Wellcome Centre |
 | Martyn Stopps    | Prototyping and fabrication assistance | Sainsbury Wellcome Centre |
 | Karen Fergus     | Administrative assistance | Sainsbury Wellcome Centre |
