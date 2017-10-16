@@ -56,7 +56,7 @@ Share your thoughts, photos, and videos of the exhibit on twitter, instagram, an
 
 ## How to cite this project
 
-Kim D, Perkins K, Ramble C, Garnade H, Lopes G, Quinones D, Campbell-Russo R, Lischenko F, O'Brien C, Nakajima R, Hanlon RT, Nogueira J, Calcaterra L, Honnet C, Zamfir E, Niedworok C, Li K, Gomez-Marin A, Kim S, Dimitriadis G, Geerts J, McNaught K, Blaney I, Barrett R, Stopps M, Fergus K, Taylor-Gee A, Osorio D, The EveryMind Team, Kampff A. *Surprising Minds*. Interactive installation and crowd human behaviour experiment. Installed 4 July 2017 at Sea Life Brighton, Brighton, UK.
+*Surprising Minds*. Interactive installation and crowd human behaviour experiment. Installed 4 July 2017 at Sea Life Brighton, Brighton, UK. Kim D, Perkins K, Ramble C, Garnade H, Lopes G, Quinones D, Campbell-Russo R, Lischenko F, O'Brien C, Nakajima R, Hanlon RT, Nogueira J, Calcaterra L, Honnet C, Zamfir E, Niedworok C, Li K, Gomez-Marin A, Kim S, Dimitriadis G, Geerts J, McNaught K, Blaney I, Barrett R, Stopps M, Fergus K, Taylor-Gee A, Osorio D, The EveryMind Team, Kampff A. 
 
 ## Acknowledgements
 
