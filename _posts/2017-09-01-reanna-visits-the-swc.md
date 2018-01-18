@@ -7,6 +7,7 @@ categories:
 tags:
   - open lab notebook
   - Sea Life Brighton
+  - Nuffield Research Placements
 ---
 
 Today Reanna came up to London to visit the Sainsbury Wellcome Centre and to give a practice presentation of her Nuffield Research Poster in lab meeting! 
