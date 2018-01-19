@@ -8,7 +8,7 @@ tags:
   - open lab notebook
   - Sea Life Brighton
 ---
-{% include toc}
+{% include toc %}
 
 Today the exhibit got a major update, based on things we learned from over the summer. Below are sketches I made to plan out this update, which I originally drew on August 13, 2017. 
 
