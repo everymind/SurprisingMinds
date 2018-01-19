@@ -49,4 +49,4 @@ The Sea Life Centre often has foreign language student visitors, especially over
 
 We decided to expand the accessibility of the exhibit by offering five language options at the interactive station: French, English, German, Italian, and Mandarin Chinese. We also translated the Surprising Mind website's homepage into ten languages: French, German, Italian, Mandarin Chinese, Spanish, Portuguese, Greek, Dutch, Romanian, and Korean. 
 
-{% include figure image_path="/assets/images/20171013_133232.jpg" alt="Front view of interactive station" caption="A front view of the updated interactive station, with new viewing mask and multi-language options."
+{% include figure image_path="/assets/images/20171013_133232.jpg" alt="Front view of interactive station" caption="A front view of the updated interactive station, with new viewing mask and multi-language options." %}
