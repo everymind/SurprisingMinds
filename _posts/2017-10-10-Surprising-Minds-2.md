@@ -31,7 +31,7 @@ So, based on the knowledge gleaned from over 200 collective hours of hosting the
 
 {% include figure image_path="/assets/images/20171013_133147.jpg" alt="The left side graphic panel installed into the SM interactive station v.2.0" caption="The left side graphic panel, as it looks in the exhibit setting" %}
 
-<img src="https://github.com/everymind/SurprisingMinds/blob/gh-pages/assets/images/20171013_133147.jpg" width="480">
+<img src="/assets/images/20171013_133147.jpg" width="480">
 
 ## New viewing mask design
 
