@@ -31,6 +31,8 @@ So, based on the knowledge gleaned from over 200 collective hours of hosting the
 
 {% include figure image_path="/assets/images/20171013_133147.jpg" alt="The left side graphic panel installed into the SM interactive station v.2.0" caption="The left side graphic panel, as it looks in the exhibit setting" %}
 
+<img src="https://github.com/everymind/SurprisingMinds/blob/gh-pages/assets/images/20171013_133147.jpg" width="480">
+
 ## New viewing mask design
 
 The original mask design used in the summer pilot was already starting to erode from use. There were also some concerns about hygiene also came up -- the mask was just a flat piece of foam on an acrylic plate, meaning that people's noses and mouths touched the acrylic plate. When the exhibit was hosted, we would keep some baby wipes on hand to clean the viewing plate at least once a day, but this would be an impractical solution for a fully automated exhibit. 
