@@ -17,7 +17,7 @@ Today the exhibit got a major update, based on things we learned from over the s
 {% include figure image_path="/assets/images/2017-08-13_ExhibitAutomation-sketches_02.png" alt="Sketches showing ideas for updating the exhibit after the summer pilot run, part 2" caption="Sketch mock-ups of updates to be made to the exhibit after our successful pilot run during the summer of 2017 (part 2)" %}
 
 ## Additional graphics and feedback
-Over the summer, the exhibit was always hosted by a human, who would explain the purpose of the interactive station and how to use it. This made for a nice interaction point in the aquarium for Sea Life visitors, but it also meant that when no one was available to host the exhibit, visitors were clueless about how to use the interactive station, and that area became a bit of a dead space. 
+Over the summer, the exhibit was always hosted by a human (either Reanna or me), who would explain the purpose of the interactive station and how to use it. This made for a nice interaction point in the aquarium for Sea Life visitors, but it also meant that when no one was available to host the exhibit, visitors were clueless about how to use the interactive station, and that area became a bit of a dead space. 
 
 Hosting the exhibit did, however, enable us to learn exactly what phrasing would be most clear and engaging to Sea Life Centre visitors. Turns out, when you say something 50-100 times a day, you get really good at saying it as effectively and efficiently as possible. 
 
