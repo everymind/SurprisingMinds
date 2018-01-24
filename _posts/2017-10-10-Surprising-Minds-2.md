@@ -1,6 +1,6 @@
 ---
 title: "Surprising Minds 2.0"
-excerpt: ""
+excerpt: "Today the exhibit got a major update, based on things we learned from over the summer."
 author: Danbee Kim
 categories:
   - documentation
