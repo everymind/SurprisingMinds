@@ -1,6 +1,6 @@
 ---
 title: "Installing the guts of the interactive station"
-excerpt: ""
+excerpt: "Time-lapse video and photos!"
 author: Danbee Kim
 categories:
   - documentation
