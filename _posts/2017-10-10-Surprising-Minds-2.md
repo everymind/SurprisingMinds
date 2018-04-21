@@ -1,5 +1,5 @@
 ---
-title: "Surprising Minds 2.0"
+title: "Automating and upgrading the exhibit"
 excerpt: "Today the exhibit got a major update, based on things we learned from over the summer."
 author: Danbee Kim
 categories:
