@@ -60,5 +60,12 @@ docs:
       - title: "Other documentation"
         url: /categories/#documentation
         
+  - title: "Phase 2: Surprising Minds in the Ocean"
+    children: 
+      - title: "Automating the exhibit"
+        url: /documentation/Surprising-Minds-2/
+      - title: "Call for marine videos!"
+        url: 
+        
         
 
