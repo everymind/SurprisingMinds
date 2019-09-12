@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 header:
-  image: /assets/images/SurprisingMinds_header_small.png
+  image: /assets/images/20171013_133213_small.jpg
 excerpt: "An exhibit at Sea Life Brighton that uses eye-tracking to bring neuroscience 'into the wild'! "
 sidebar:  
   nav: docs
