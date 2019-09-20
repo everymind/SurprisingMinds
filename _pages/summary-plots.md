@@ -3,7 +3,6 @@ layout: single
 permalink: /summary/
 author_profile: true
 ---
-# Project Summary
 
 {% include figure image_path="\assets\images\PaperFigs\Fig1_OverallExhibitConceptDesign-01.jpg" alt="Overall exhibit concept and design" %}
 
