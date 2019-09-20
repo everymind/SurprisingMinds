@@ -6,6 +6,8 @@ main:
     url: /blog/
   - title: "Dataset"
     url: /dataset/
+  - title: "Summary"
+    url: /summary/
   - title: "Gallery"
     url: /gallery/
 
