@@ -3,6 +3,9 @@ layout: single
 permalink: /summary/
 author_profile: true
 ---
+# Project Summary
+
+"Surprising Minds" was installed next to the [cuttlefish](https://en.wikipedia.org/wiki/Cuttlefish) [display tank in the Victorian Arcade of the Sea Life Centre in Brighton](https://www.visitsealife.com/brighton/discover/aquarium-zones/) during the first week of July 2017. During July and August 2017, the exhibit was hosted by "host scientist", who invited visitors at the Sea Life Centre to interact with the exhibit, explained the experiment embedded in the exhibit, and engaged in discussions about neuroscience topics such as [optical illusions](https://en.wikipedia.org/wiki/Optical_illusion), [blindsight](https://en.wikipedia.org/wiki/Blindsight), and the [structure of the retina](https://en.wikipedia.org/wiki/Retina#Structure).
 
 {% include figure image_path="\assets\images\PaperFigs\Fig1_OverallExhibitConceptDesign-01.jpg" alt="Overall exhibit concept and design" %}
 
