@@ -1,4 +1,5 @@
 ---
+title: "Project Summary"
 layout: single
 permalink: /summary/
 author_profile: true
