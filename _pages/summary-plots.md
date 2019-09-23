@@ -12,11 +12,11 @@ Several clues point to a need for neuroscience to expand its work out of the lab
 
 # "Surprising Minds": an experiment embedded in an exhibit
 
-"Surprising Minds" was installed next to the [cuttlefish](https://en.wikipedia.org/wiki/Cuttlefish) [display tank in the Victorian Arcade of the Sea Life Centre in Brighton](https://www.visitsealife.com/brighton/discover/aquarium-zones/) during the first week of July 2017. During July and August 2017, the exhibit was hosted by "host scientist", who invited visitors at the Sea Life Centre to interact with the exhibit, explained the experiment embedded in the exhibit, and engaged in discussions about neuroscience topics such as [optical illusions](https://en.wikipedia.org/wiki/Optical_illusion), [blindsight](https://en.wikipedia.org/wiki/Blindsight), and the [structure of the retina](https://en.wikipedia.org/wiki/Retina#Structure).
+"Surprising Minds" was installed next to the [cuttlefish](https://en.wikipedia.org/wiki/Cuttlefish) [display tank in the Victorian Arcade of the Sea Life Centre in Brighton](https://www.visitsealife.com/brighton/discover/aquarium-zones/) during the first week of July 2017. During July and August 2017, the exhibit was tended by a "host scientist", who invited visitors at the Sea Life Centre to interact with the exhibit, explained the experiment embedded in the exhibit, and engaged in discussions about neuroscience topics such as [optical illusions](https://en.wikipedia.org/wiki/Optical_illusion), [blindsight](https://en.wikipedia.org/wiki/Blindsight), and the [structure of the retina](https://en.wikipedia.org/wiki/Retina#Structure).
 
 {% include figure image_path="/assets/images/PaperFigs/Fig1_OverallExhibitConceptDesign-01.jpg" alt="Overall exhibit concept and design" %}
 
-Because the research interests in our lab
+When visitors approached the exhibit, the host scientist invited them to look through the viewing plate and watch a 30 second long video clip while cameras record their eyes up close. Afterwards, the exhibit would replay the recording of their eyes so that visitors can see what their eyes do while they watch things. 
 
 {% include figure image_path="/assets/images/PaperFigs/Fig2a_ExperimentProtocol-01.jpg" alt="Experimental protocol" %}
 
