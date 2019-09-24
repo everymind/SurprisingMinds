@@ -4,6 +4,8 @@ layout: single
 permalink: /summary/
 author_profile: true
 ---
+{% include toc %}
+
 # Introduction
 
 Neuroscience is the scientific study of the nervous system, a complex organ system inside every animal on planet Earth. Since its birth as a distinct scientific discipline in the 1950s and 1960s, neuroscience has concentrated its efforts on "interventionist" laboratory experiments with mice and rats, in which the experimenter manipulates some aspect of the nervous system and carefully observes the effects of that manipulation. This method has been very productive for the last 60 years, and has motivated the rapid development of ever more precise tools for physical and chemical manipulation of nervous system cells and molecules. Unfortunately, [these techniques have not been enough to meaningfully connect the cellular and molecular activity of nervous systems to the behaviour and well-being of whole organisms](https://www.cell.com/neuron/pdf/S0896-6273(16)31040-6.pdf). 
@@ -12,11 +14,19 @@ Several clues point to a need for neuroscience to expand its work out of the lab
 
 # "Surprising Minds": an experiment embedded in an exhibit
 
-"Surprising Minds" was installed next to the [cuttlefish](https://en.wikipedia.org/wiki/Cuttlefish) [display tank in the Victorian Arcade of the Sea Life Centre in Brighton](https://www.visitsealife.com/brighton/discover/aquarium-zones/) during the first week of July 2017. During July and August 2017, the exhibit was tended by a "host scientist", who invited visitors at the Sea Life Centre to interact with the exhibit, explained the experiment embedded in the exhibit, and engaged in discussions about neuroscience topics such as [optical illusions](https://en.wikipedia.org/wiki/Optical_illusion), [blindsight](https://en.wikipedia.org/wiki/Blindsight), and the [structure of the retina](https://en.wikipedia.org/wiki/Retina#Structure).
+While looking for collaborators with whom I could study neuroscience topics in [cuttlefish](https://en.wikipedia.org/wiki/Cuttlefish), I developed a relationship with the Sea Life Centre in Brighton, UK, during the fall of 2016. I agreed to volunteer my time learning their marine animal husbandry procedures by helping with the daily tasks of maintaining the [Behind the Scenes](https://www.visitsealife.com/brighton/discover/behind-the-scenes-tour/) research laboratory space. In return, I would be allowed to conduct non-invasive behavioural experiments using their aquarium space, with newly hatched animals that the aquarium staff would help me raise. Unfortunately, no local cuttlefish eggs were found during the breeding seasons of 2017, and during the summer of 2017 a fault was found in one of the aquaculture systems, and the cuttlefish tanks had to be take offline for repairs. 
+
+When it became clear that I would not be able to proceed with cuttlefish behaviour experiments as planned, my PhD advisor, Dr. Adam Kampff, encouraged me to propose a behaviour experiment for humans which could take advantage of the huge numbers of people visiting the Sea Life Centre, especially during the summers. After meeting with Sea Life Brighton's display team and the communications manager at our London host institute, the Sainsbury Wellcome Centre, I was able to secure space and funding to develop and build an exhibit about intelligence, surprise, and how we can study both in humans and cuttlefish. 
 
 {% include figure image_path="/assets/images/PaperFigs/Fig1_OverallExhibitConceptDesign-01.jpg" alt="Overall exhibit concept and design" %}
 
+"Surprising Minds" was installed next to the [cuttlefish](https://en.wikipedia.org/wiki/Cuttlefish) [display tank in the Victorian Arcade of the Sea Life Centre in Brighton](https://www.visitsealife.com/brighton/discover/aquarium-zones/) during the first week of July 2017. See Supplemental Figure 1a for details of the exhibit casing that held the experiment, and Supp. Fig. 1b for more documentation of the hardware components controlling the exhibit interaction and saving experiment data. 
+
+During July and August 2017, the exhibit was tended by a "host scientist", who invited visitors at the Sea Life Centre to interact with the exhibit, explained the experiment embedded in the exhibit, and engaged in discussions about neuroscience topics such as [optical illusions](https://en.wikipedia.org/wiki/Optical_illusion), [blindsight](https://en.wikipedia.org/wiki/Blindsight), and the [structure of the retina](https://en.wikipedia.org/wiki/Retina#Structure).
+
 When visitors approached the exhibit, the host scientist invited them to look through the viewing plate and watch a 30 second long video clip while cameras record their eyes up close. Afterwards, the exhibit would replay the recording of their eyes so that visitors can see what their eyes do while they watch things. 
+
+After August 2017, the exhibit was briefly taken offline in order to enable the exhibit to run without a human host. See Supp. Fig. 1c and 1d for details on the upgrades made to the exhibit in order to automate the exhibit interaction and collection of experimental data. 
 
 {% include figure image_path="/assets/images/PaperFigs/Fig2a_ExperimentProtocol-01.jpg" alt="Experimental protocol" %}
 
