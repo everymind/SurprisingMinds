@@ -14,7 +14,7 @@ Several clues point to a need for neuroscience to expand its work out of the lab
 
 # "Surprising Minds": an experiment embedded in an exhibit
 
-While looking for collaborators with whom I could study neuroscience topics in [cuttlefish](https://en.wikipedia.org/wiki/Cuttlefish), I developed a relationship with the Sea Life Centre in Brighton, UK, during the fall of 2016. I agreed to volunteer my time learning their marine animal husbandry procedures by helping with the daily tasks of maintaining the [Behind the Scenes](https://www.visitsealife.com/brighton/discover/behind-the-scenes-tour/) research laboratory space. In return, I would be allowed to conduct non-invasive behavioural experiments using their aquarium space, with newly hatched animals that the aquarium staff would help me raise. Unfortunately, no local cuttlefish eggs were found during the breeding seasons of 2017, and during the summer of 2017 a fault was found in one of the aquaculture systems, and the cuttlefish tanks had to be take offline for repairs. 
+While looking for collaborators with whom I could study neuroscience topics in [cuttlefish](https://en.wikipedia.org/wiki/Cuttlefish), I developed a relationship with the Sea Life Centre in Brighton, UK, during the fall of 2016. I agreed to volunteer my time learning their marine animal husbandry procedures by helping with the daily tasks of maintaining the [Behind the Scenes](https://www.visitsealife.com/brighton/discover/behind-the-scenes-tour/) research laboratory space. In return, I would be allowed to conduct non-invasive behavioural experiments using their aquarium space, with newly hatched animals that the aquarium staff would help me raise. Unfortunately, no local cuttlefish eggs were found during the breeding seasons of 2017, and during the summer of 2017 a fault was found in one of the aquaculture systems, and the cuttlefish tanks had to be taken offline for repairs. 
 
 When it became clear that I would not be able to proceed with cuttlefish behaviour experiments as planned, my PhD advisor, Dr. Adam Kampff, encouraged me to propose a behaviour experiment for humans which could take advantage of the huge numbers of people visiting the Sea Life Centre, especially during the summers. After meeting with Sea Life Brighton's display team and the communications manager at our London host institute, the Sainsbury Wellcome Centre, I was able to secure space and funding to develop and build an exhibit about intelligence, surprise, and how we can study both in humans and cuttlefish. 
 
@@ -48,7 +48,9 @@ Not everyone who activated the exhibit successfully completed the experiment. In
 
 {% include figure image_path="/assets/images/PaperFigs/Fig4b_EngagementByDayOfWeek-01.jpg" alt="Exhibit activations and visitor engagement, sorted by weekday" %}
 
-As shown in figure 2a, each participant watched a calibration sequence, a unique video clip, and then a video clip of an octopus rapidly de-camouflaging. Because the calibration sequence and octopus clip was experienced by all participants, we pooled calculations of changes in pupil size and motion across all "good trials" obtained for these sequences. The plots below show pupil size and motion from all the good trials obtained with the left eye camera (N=4407). 
+As shown in figure 2a, each participant watched a calibration sequence, a unique video clip, and then a video clip of an octopus rapidly de-camouflaging. You can watch all six possible video experiences by scrolling to the bottom of this page, or by visiting [the Surprising Minds Stimuli YouTube playlist](https://www.youtube.com/playlist?list=PLQtAFaaG_zzwPUcP3q735-uooOP2_Eiz9). 
+
+Because the calibration sequence and octopus clip was experienced by all participants, we pooled calculations of changes in pupil size and motion across all "good trials" obtained for these sequences. The plots below show pupil size and motion from all the good trials obtained with the left eye camera (N=4407). 
 
 {% include figure image_path="/assets/images/PaperFigs/Fig5a_PupilSizeCalibration-01.jpg" alt="Left pupil size during calibration sequence" %}
 
@@ -91,3 +93,18 @@ As shown in figure 2a, each participant watched a calibration sequence, a unique
 {% include figure image_path="/assets/images/PaperFigs/SuppFig3d_InterestingMoments028-01.jpg" alt="Interesting moments in unique sequence 05, found using population saccade statistics on left pupil x-axis motion" %}
 
 {% include figure image_path="/assets/images/PaperFigs/SuppFig3e_InterestingMoments029-01.jpg" alt="Interesting moments in unique sequence 06, found using population saccade statistics on left pupil x-axis motion" %}
+
+## Exhibit Stimuli
+
+{% include video id="1RNJI_5f50Y" provider="youtube" %}
+
+{% include video id="cgJqYui9HZk" provider="youtube" %}
+
+{% include video id="c2wdQVI8GF8" provider="youtube" %}
+
+{% include video id="txw5nVIznRc" provider="youtube" %}
+
+{% include video id="qdV6fI8M3M4" provider="youtube" %}
+
+{% include video id="UFI8-j2xXpY" provider="youtube" %}
+
