@@ -16,25 +16,29 @@ Several clues point to a need for neuroscience to expand its work out of the lab
 
 While looking for collaborators with whom I could study neuroscience topics in [cuttlefish](https://en.wikipedia.org/wiki/Cuttlefish), I developed a relationship with the Sea Life Centre in Brighton, UK, during the fall of 2016. I agreed to volunteer my time learning their marine animal husbandry procedures by helping with the daily tasks of maintaining the [Behind the Scenes](https://www.visitsealife.com/brighton/discover/behind-the-scenes-tour/) research laboratory space. In return, I would be allowed to conduct non-invasive behavioural experiments using their aquarium space, with newly hatched animals that the aquarium staff would help me raise. Unfortunately, no local cuttlefish eggs were found during the breeding seasons of 2017, and during the summer of 2017 a fault was found in one of the aquaculture systems, and the cuttlefish tanks had to be taken offline for repairs. 
 
-When it became clear that I would not be able to proceed with cuttlefish behaviour experiments as planned, my PhD advisor, Dr. Adam Kampff, encouraged me to propose a behaviour experiment for humans which could take advantage of the huge numbers of people visiting the Sea Life Centre, especially during the summers. After meeting with Sea Life Brighton's display team and the communications manager at our London host institute, the Sainsbury Wellcome Centre, I was able to secure space and funding to develop and build an exhibit about intelligence, surprise, and how we can study both in humans and cuttlefish. 
+When it became clear that I would not be able to proceed with cuttlefish behaviour experiments as planned, my PhD advisor, Dr. Adam Kampff, encouraged me to propose a behaviour experiment for humans which could take advantage of the huge quantity and diversity of people visiting the Sea Life Centre, especially during the summers when school groups from all around the world visited the aquarium. After meeting with Sea Life Brighton's display team and the communications manager at our London host institute, the Sainsbury Wellcome Centre, I was able to secure space and funding to develop and build an exhibit about intelligence, surprise, and how we can study neuroscience in both humans and cuttlefish. 
 
-We decided to structure the experiment around eye-tracking, as vision is the primary sensory modality in both humans and cuttlefish, and a vast literature exists on pupil dynamics in relation to surprise and cognitive load. We felt that this design would allow us to talk about theoretical topics such as [convergent evolution](https://en.wikipedia.org/wiki/Convergent_evolution) of nervous systems across different species in addition to replicating and validating previous research with a much larger and diverse dataset. 
+We decided to structure the experiment around eye-tracking, for two reasons. One is that both humans and cuttlefish have fluid-filled, camera-like eyes, and pay much more attention to what we see than to information from any other sense/sensor. The second reason is because changes to pupil size in response to light, surprise, and [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) have been well-studied under traditional laboratory conditions. We felt that by focusing on eye-tracking as a behavioural neuroscience method allowed us to talk about theoretical topics such as [convergent evolution](https://en.wikipedia.org/wiki/Convergent_evolution) of nervous systems across different species in addition to replicating and validating previous research with a much larger and diverse sample size. 
 
 {% include figure image_path="/assets/images/PaperFigs/Fig1_OverallExhibitConceptDesign-01.jpg" alt="Overall exhibit concept and design" %}
 
-"Surprising Minds" was installed next to the cuttlefish display tank in the [Victorian Arcade of the Sea Life Centre in Brighton](https://www.visitsealife.com/brighton/discover/aquarium-zones/) during the first week of July 2017. See Supplemental Figure 1a for details of the exhibit casing that held the experiment, and Supp. Fig. 1b for more documentation of the hardware components controlling the exhibit interaction and saving experiment data. 
+During the first week of July 2017, "Surprising Minds" was installed next to the cuttlefish display tank in the [Victorian Arcade of the Sea Life Centre in Brighton](https://www.visitsealife.com/brighton/discover/aquarium-zones/). 
 
 During July and August 2017, the exhibit was tended by a "host scientist", who invited visitors at the Sea Life Centre to interact with the exhibit, explained the experiment embedded in the exhibit, and engaged in discussions about neuroscience topics such as [optical illusions](https://en.wikipedia.org/wiki/Optical_illusion), [blindsight](https://en.wikipedia.org/wiki/Blindsight), and the [structure of the retina](https://en.wikipedia.org/wiki/Retina#Structure).
 
 When visitors approached the exhibit, the host scientist invited them to look through the viewing plate and watch a 30 second long video clip while cameras record their eyes up close. Afterwards, the exhibit would replay the recording of their eyes so that visitors can see what their eyes do while they watch things. 
 
-After August 2017, the exhibit was briefly taken offline in order to enable the exhibit to run without a human host. The human host was replaced with informative text on the outside of the exhibit casing, and written directions for participating in the experiment were translated into 4 other languages besides English. See Supp. Fig. 1c and 1d for additional details on the upgrades made to the exhibit in order to automate the exhibit interaction and collection of experimental data. 
+See Supplemental Figure 1a for details of the exhibit casing that held the experiment, including the original design of the viewing plate. 
 
 {% include figure image_path="/assets/images/PaperFigs/Fig2a_ExperimentProtocol-01.jpg" alt="Experimental protocol" %}
 
+Every time a visitor activated the exhibit by pressing a language button, three cameras were activated - the two infrared "eye cameras" housed in the viewing plate, which recorded people's eyes up close; and a usb web cam placed inside of the exhibit box, called the "world camera" or our "ground truth camera", which recorded the main display monitor inside the exhibit box. At the same time, the external monitors on the top and sides of the exhibit box would change to display the text "Do not disturb, Experiment in Progress".
+
+See Supp. Fig. 1b for more documentation of the hardware components controlling the exhibit interaction and saving experiment data. 
+
 {% include figure image_path="/assets/images/PaperFigs/Fig2b_ExperimentProtocolHardware-01.jpg" alt="Exhibit and experiment hardware setup" %}
 
-Every time a visitor activated the exhibit by pressing a language button, three cameras were activated - the two infrared cameras housed in the viewing plate, which recorded people's eyes up close; and a usb web cam placed inside of the exhibit box, called the "world camera" or our "ground truth camera", which recorded the internal monitor that displays experiment instructions and stimuli. The data collected for each experiment participant were the videos recorded by these cameras during a person's interaction with the exhibit. 
+After August 2017, the exhibit was briefly taken offline in order to enable the exhibit to run without a human host. The human host was replaced with informative text on the outside of the exhibit casing, and written directions for participating in the experiment were translated into 4 other languages besides English. See Supp. Fig. 1c and 1d for additional details on the upgrades made to the exhibit in order to automate the exhibit interaction and collection of experimental data. 
 
 In order to analyse these videos, our analysis workflow needed to first synchronise all three videos, as the eye cameras and world camera ran at different frame rates. Then, for each frame in the eye recordings, our analysis workflow needed to find the pupil and measure the pupil's area and the center of the pupil's location in the frame. This information was then used to calculate changes in pupil size and motion. 
 
@@ -48,11 +52,13 @@ Not everyone who activated the exhibit successfully completed the experiment. In
 
 {% include figure image_path="/assets/images/PaperFigs/Fig4b_EngagementByDayOfWeek-01.jpg" alt="Exhibit activations and visitor engagement, sorted by weekday" %}
 
-As shown in figure 2a, each participant watched a calibration sequence, a unique video clip, and then a video clip of an octopus rapidly de-camouflaging. You can watch all six possible video experiences by scrolling to the bottom of this page, or by visiting [the Surprising Minds Stimuli YouTube playlist](https://www.youtube.com/playlist?list=PLQtAFaaG_zzwPUcP3q735-uooOP2_Eiz9). 
+As shown in figure 2a, each participant watched a calibration sequence, a unique video clip, and then a video clip of an octopus rapidly de-camouflaging. You can watch all six possible video experiences by scrolling to the bottom of this page, or by visiting [the Surprising Minds Stimuli YouTube playlist](https://www.youtube.com/playlist?list=PLQtAFaaG_zzwPUcP3q735-uooOP2_Eiz9){:target="_blank"}. 
 
 Because the calibration sequence and octopus clip was experienced by all participants, we pooled calculations of changes in pupil size and motion across all "good trials" obtained for these sequences. The plots below show pupil size and motion from all the good trials obtained with the left eye camera (N=4407). 
 
 {% include figure image_path="/assets/images/PaperFigs/Fig5a_PupilSizeCalibration-01.jpg" alt="Left pupil size during calibration sequence" %}
+
+
 
 {% include figure image_path="/assets/images/PaperFigs/Fig5b_PupilSizeOctopus-01.jpg" alt="Left pupil size during octopus sequence" %}
 
