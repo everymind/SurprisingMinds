@@ -58,8 +58,6 @@ Because the calibration sequence and octopus clip was experienced by all partici
 
 {% include figure image_path="/assets/images/PaperFigs/Fig5a_PupilSizeCalibration-01.jpg" alt="Left pupil size during calibration sequence" %}
 
-
-
 {% include figure image_path="/assets/images/PaperFigs/Fig5b_PupilSizeOctopus-01.jpg" alt="Left pupil size during octopus sequence" %}
 
 {% include figure image_path="/assets/images/PaperFigs/Fig6a_PupilMotionCalibration-01.jpg" alt="Left pupil x-axis motion during calibration sequence" %}

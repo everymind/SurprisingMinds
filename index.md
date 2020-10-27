@@ -52,7 +52,7 @@ The software used to run the interactive station can be found in [the Surprising
 
 The code and workflow used to analyse the exhibit's datasets can be found in [the Surprising Minds Analysis github repository](https://github.com/everymind/SurprisingMinds-Analysis). 
 
-To read a summary, including figures and analysis plots, visit our [Project Summary](/summary/). 
+To read a summary, including figures and analysis plots, visit our [Project Summary](/SurprisingMinds/summary/). 
 
 Share your thoughts, photos, and videos of the exhibit on twitter, instagram, and facebook using #surprisingminds and #everymindonline!
 
