@@ -22,6 +22,8 @@ We decided to structure the experiment around eye-tracking, for two reasons. One
 
 {% include figure image_path="/assets/images/PaperFigs/Fig01_OverallExhibitConceptDesign.jpg" alt="Overall exhibit concept and design" caption="Fig. 1: Overall concept design of our proof-of-concept large-N 'in situ' behavioral experiment with human subjects. A. Schematic of an interactive exhibit with embedded behavioral experiment, to be located in front of the cuttlefish display tank (labeled 'BUBBLE') at the Sea Life Centre aquarium in Bright, UK; sketch by Danbee Kim. B. Photo of the final exhibit, which remained on display at Sea Light Brighton until Sept 2020. The exihibit was installed in July 2017 and collected the data used in this summary from 10 October 2017 until 01 November 2018." %}
 
+## Installation and Pilot phase
+
 During the first week of July 2017, "Surprising Minds" was installed next to the cuttlefish display tank in the [Victorian Arcade of the Sea Life Centre in Brighton](https://www.visitsealife.com/brighton/discover/aquarium-zones/). 
 
 During July and August 2017, the exhibit was tended by a "host scientist", who invited visitors at the Sea Life Centre to interact with the exhibit, explained the experiment embedded in the exhibit, and engaged in discussions about neuroscience topics such as [optical illusions](https://en.wikipedia.org/wiki/Optical_illusion), [blindsight](https://en.wikipedia.org/wiki/Blindsight), and the [structure of the retina](https://en.wikipedia.org/wiki/Retina#Structure).
@@ -38,11 +40,15 @@ See Supp. Fig. 1b for more documentation of the hardware components controlling 
 
 {% include figure image_path="/assets/images/PaperFigs/Fig03_ExperimentProtocol_reduced.jpg" alt="Experimental protocol" caption="Fig. 3: The experiment protocol. Participants activate exhibit interactions by pressing a language button. After a calibration sequence, which also allows participants to adjust head placement in the viewing mask, participants each see two short video clips, which in total take 30-45 seconds to play." %}
 
+## Automating the exhibit
+
 After August 2017, the exhibit was briefly taken offline in order to enable the exhibit to run without a human host. The human host was replaced with informative text on the outside of the exhibit casing, and written directions for participating in the experiment were translated into 4 other languages besides English. See Supp. Fig. 1c and 1d for additional details on the upgrades made to the exhibit in order to automate the exhibit interaction and collection of experimental data. 
 
 In order to analyse these videos, our analysis workflow needed to first synchronise all three videos, as the eye cameras and world camera ran at different frame rates. Then, for each frame in the eye recordings, our analysis workflow needed to find the pupil and measure the pupil's area and the center of the pupil's location in the frame. This information was then used to calculate changes in pupil size and motion. 
 
 {% include figure image_path="/assets/images/PaperFigs/Fig04_AnalysisPipeline.jpg" alt="Analysis pipeline" caption="Fig. 4: Video analysis workflow, with example screenshots of the image processing done at each step in the pipeline. All analysis was done using the Python programming language and the OpenCV library. Full analysis scripts and logs can be found online at https://github.com/everymind/SurprisingMinds_Paper." %}
+
+## Results
 
 The exhibit turned out to be extremely popular. During the first month of automated data collection, the exhibit was activated 558 times, and by the time the exhibit had been running for a year, the exhibit had been activated a grand total of 24,641 times. 
 
@@ -52,13 +58,15 @@ Not everyone who activated the exhibit successfully completed the experiment. In
 
 {% include figure image_path="/assets/images/PaperFigs/Fig06_EngagementByDayOfWeek.jpg" alt="Exhibit activations and visitor engagement, sorted by weekday" caption="Fig. 6: Number of exhibit activations sorted by weekday." %}
 
-As shown in figure 2a, each participant watched a calibration sequence, a unique video clip, and then a video clip of an octopus rapidly de-camouflaging. You can watch all six possible video experiences by scrolling to the bottom of this page, or by visiting [the Surprising Minds Stimuli YouTube playlist](https://www.youtube.com/playlist?list=PLQtAFaaG_zzwPUcP3q735-uooOP2_Eiz9){:target="_blank"}. 
+As shown in figure 3, each participant watched a calibration sequence, a unique video clip, and then a video clip of an octopus rapidly de-camouflaging. You can watch all six possible video experiences by scrolling to the bottom of this page, or by visiting [the Surprising Minds Stimuli YouTube playlist](https://www.youtube.com/playlist?list=PLQtAFaaG_zzwPUcP3q735-uooOP2_Eiz9){:target="_blank"}. 
 
 Because the calibration sequence and octopus clip was experienced by all participants, we pooled calculations of changes in pupil size and motion across all "good trials" obtained for these sequences. The plots below show pupil size and motion from all the good trials obtained with the left eye camera (N=4407). 
 
 {% include figure image_path="/assets/images/PaperFigs/Fig07_PupilSizeMotionRasterCalibration.jpg" alt="Left pupil size and x-axis motion during calibration sequence" caption="Fig. 7: Using the calibration sequence to benchmark the experiment setup. A. Mean left pupil size with 95% confidence interval. B. Mean left pupil motion in x-axis, with 95% confidence interval. C. Raster of 'small saccades', pooled to reveal moments when many people made saccades during the same moment of the stimulus video. D. Average luminance of stimulus, as seen by the world camera (see Fig. 2). E. Screenshots of stimulus events labeled in subplot D." %}
 
 {% include figure image_path="/assets/images/PaperFigs/Fig08_PupilSizeMotionRasterOctopus.jpg" alt="Left pupil size and x-axis motion during octopus sequence" caption="Fig. 8: The very large sample size of this study allows us to use a traditionally noisy measure (saccade times) to measure a useful behavioral metric ('salience' or 'surprise') by pooling data across the entire study population. A. Mean pupil size with 95% confidence interval. B. Mean pupil motion in x-axis, with 95% confidence interval. C. Raster of 'small saccades', pooled to reveal moments when many people make saccades during the same moment of the stimulus video. D. Average luminance of stimulus, as seen by the world camera (see Fig. 2)" %}
+
+# Supplemental Materials
 
 ## Supplemental Figures
 
@@ -90,17 +98,102 @@ Because the calibration sequence and octopus clip was experienced by all partici
 
 {% include figure image_path="/assets/images/PaperFigs/SuppFig14_InterestingMoments03.jpg" alt="Interesting moments in unique sequence 06, found using population saccade statistics on left pupil x-axis motion" caption="Supp. Fig. S14: Pooled saccades are less informative during more subtle visual sequences, such as a video edited to mirror the frame down the middle. See Supp. Vids 1 to watch full videos of all unique sequences. A. Mean pupil size with 95% confidence interval. B. Mean pupil motion with 95% confidence interval. C. Raster of 'small saccades', pooled across all participants who watched this unique sequence. D. Average luminance of stimulus, as seen by world camera. E. Screenshots of stimulus events labeled in subplot D." %}
 
-## Exhibit Stimuli
+## Supplemental Videos
 
-{% include video id="1RNJI_5f50Y" provider="youtube" %}
+### SV1: Video wall display
 
-{% include video id="cgJqYui9HZk" provider="youtube" %}
+The Surprising Minds exhibit at Sea Life Brighton included a video summarizing the Cuttle Shuttle project and introducing the concepts behind Surprising Minds:
 
-{% include video id="c2wdQVI8GF8" provider="youtube" %}
+{% include video id="3SStj5fYHjU" provider="youtube" %}
 
-{% include video id="txw5nVIznRc" provider="youtube" %}
+### SV2: "Resting state" video
 
-{% include video id="qdV6fI8M3M4" provider="youtube" %}
+This video played on all external monitors of the exhibit when no one had activated the experiment yet:
 
-{% include video id="UFI8-j2xXpY" provider="youtube" %}
+{% include video id="lox_yw4pNko" provider="youtube" %}
+
+### SV3: "Please center your eye"
+
+As soon as anyone activated the experiment by pressing a language button on the front of the exhibit, they were shown the view from the two "eye cameras" so that they could adjust the location of their eyes in the cameras' fields of view. In these videos, the feed from the eye cameras were displayed in the white box in the middle of the frame:
+
+English:
+{% include video id="6xokuyabEEs" provider="youtube" %}
+
+French:
+{% include video id="mSD99cnneLY" provider="youtube" %}
+
+German:
+{% include video id="kTf-okcA9Qk" provider="youtube" %}
+
+Italian:
+{% include video id="6o9CRSGQPS4" provider="youtube" %}
+
+Chinese:
+{% include video id="7u8T5YfZOK0" provider="youtube" %}
+
+### SV4: "Do not move"
+
+Once participants had centered their eyes in the field of view of the eye cameras, they were given one last reminder to keep their heads still, as this facilitates better eye tracking during analysis:
+
+English:
+{% include video id="2VNdWZR58FU" provider="youtube" %}
+
+French:
+{% include video id="gK5CURRwPAU" provider="youtube" %}
+
+German:
+{% include video id="jIswkWxt28Y" provider="youtube" %}
+
+Italian:
+{% include video id="o8qiysXjJ8o" provider="youtube" %}
+
+Chinese: 
+{% include video id="r3s0BOOMmfE" provider="youtube" %}
+
+### SV5: Calibration sequence
+
+The experiment began with a calibration sequence, to help us benchmark the experimental setup and context:
+
+{% include video id="YTufHfSShSI" provider="youtube" %}
+
+### SV6: Experimental stimulus sequences
+
+After the calibration sequence, participants were shown one of six unique video clips. The experiment coordinating software (Bonsai RX) picked the unique sequence randomly. Afterwards, all participants watched the same video of an octopus de-camouflaging (video credit: Dr. Roger Hanlon, Woods Hole, USA).
+
+Experimental stimulus 01:
+{% include video id="ID8Hvnez2io" provider="youtube" %}
+
+Experimental stimulus 02:
+{% include video id="xSB80oKG5KY" provider="youtube" %}
+
+Experimental stimulus 03:
+{% include video id="-P3ImnDjdyE" provider="youtube" %}
+
+Experimental stimulus 04:
+{% include video id="9g5al0nn1Pc" provider="youtube" %}
+
+Experimental stimulus 05:
+{% include video id="Hn5otYzm99s" provider="youtube" %}
+
+Experimental stimulus 06:
+{% include video id="lEngw3e45rw" provider="youtube" %}
+
+### SV7: Replay recordings from eye cameras
+
+After the octopus sequence, all participants were instructed to watch the external monitors for a replay of the video recording of their eyes during the calibration, unique, and octopus sequences:
+
+English:
+{% include video id="jRoynAfe6hw" provider="youtube" %}
+
+French:
+{% include video id="jb2-IZL35Y8" provider="youtube" %}
+
+German:
+{% include video id="n5B20UQE8lc" provider="youtube" %}
+
+Italian:
+{% include video id="RtK9lVeRMM0" provider="youtube" %}
+
+Chinese: 
+{% include video id="wrGTpHcTEzg" provider="youtube" %}
 
